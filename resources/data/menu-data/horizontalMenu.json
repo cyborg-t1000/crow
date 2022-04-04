@@ -7,6 +7,12 @@
       "slug": "home"
     },
     {
+      "url": "orders",
+      "name": "Orders",
+      "icon": "circle",
+      "slug": "orders"
+    },
+    {
       "name": "Page Layouts",
       "icon": "layout",
       "dropdown": "1",
